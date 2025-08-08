@@ -1,0 +1,37 @@
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*.code-workspace
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+
+# Testing environments
+test_project*/
+testing_env/
+venv*/
+.venv/
+env*/
+
+# Package building
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Example project files
+example_project/db.sqlite3
+example_project/media/
+example_project/*.log
+example_project/.env
