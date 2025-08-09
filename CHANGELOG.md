@@ -20,4 +20,4 @@
 
 ## v1.0.0 (2025-07-31)
 
-This is the initial release of the "Release App."
+This is the initial release of the "Package App."
