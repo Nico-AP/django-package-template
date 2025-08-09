@@ -1,6 +1,6 @@
 # Django Package Template
 
-This repository provides a template for a Django applications that is intended to be packaged and distributed through PyPI.
+This repository provides a template for a Django application that is intended to be packaged and distributed through PyPI.
 
 
 ## Features
